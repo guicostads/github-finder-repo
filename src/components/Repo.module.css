@@ -1,0 +1,17 @@
+.repo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem;
+  background-color: rgba(102, 68, 255, 0.242);
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  border: 2px solid #6464;
+}
+
+.repo h1 {
+  font-size: 1.5rem;
+}
